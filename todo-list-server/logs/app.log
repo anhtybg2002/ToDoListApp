@@ -1,0 +1,42 @@
+[2025-03-30 19:20:22] [INFO] [CREATE TODO] User: 67e8f88cd07a5c726559b208, Data: {"title":"dsaddasds","description":"dấd","status":"pending","due_date":"2025-03-19T17:00:00.000Z"}
+[2025-03-30 19:23:30] [INFO] [LOGIN] User: Data: {"email":"lehuy@gmail.com","password":"123456"}
+[2025-03-30 19:23:32] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {}
+[2025-03-30 19:23:32] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {}
+[2025-03-30 19:23:46] [INFO] [CREATE TODO] User: 67e9290fe9e2d70edaca1fb3, Data: {"title":"test","description":"ád","status":"pending","due_date":"2025-03-27T17:00:00.000Z"}
+[2025-03-30 19:23:56] [INFO] [DELETE TODO] User: 67e9290fe9e2d70edaca1fb3, Data: {}
+[2025-03-30 19:24:11] [INFO] [CREATE TODO] User: 67e9290fe9e2d70edaca1fb3, Data: {"title":"dsaddsad","description":"đá","status":"pending","due_date":"2025-03-28T17:00:00.000Z"}
+[2025-03-30 19:24:18] [INFO] [UPDATE TODO] User: 67e9290fe9e2d70edaca1fb3, Data: {"title":"dsaddsad","description":"đá","status":"completed","due_date":"2025-03-28T17:00:00.000Z"}
+[2025-03-30 19:24:21] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"d"}
+[2025-03-30 19:24:21] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"da"}
+[2025-03-30 19:24:22] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"da·"}
+[2025-03-30 19:24:22] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"da"}
+[2025-03-30 19:24:22] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"d"}
+[2025-03-30 19:24:22] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"dá"}
+[2025-03-30 19:24:22] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"d"}
+[2025-03-30 19:24:22] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"ds"}
+[2025-03-30 19:24:23] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"ds"}
+[2025-03-30 22:55:08] [INFO] [SIGNUP] Data: {"firstName":"Anh","lastName":"Nguyễn Ngọc","email":"nguyenngocanh@gmail.com","password":"123456"}
+[2025-03-30 22:55:24] [INFO] [LOGIN] User: Data: {"email":"nguyenngocanh@gmail.com","password":"123456"}
+[2025-03-30 22:55:25] [INFO] [QUERY TODO] User: 67e9695c635e232cf84bfb20, Query: {}
+[2025-03-30 22:55:25] [INFO] [QUERY TODO] User: 67e9695c635e232cf84bfb20, Query: {}
+[2025-03-30 22:55:40] [INFO] [CREATE TODO] User: 67e9695c635e232cf84bfb20, Data: {"title":"Vd","description":"Test","status":"pending","due_date":"2025-03-28T17:00:00.000Z"}
+[2025-03-30 22:55:55] [INFO] [LOGIN] User: Data: {"email":"nguyenngocanh@gmail.com","password":"123456"}
+[2025-03-30 22:55:57] [INFO] [QUERY TODO] User: 67e9695c635e232cf84bfb20, Query: {}
+[2025-03-30 22:55:57] [INFO] [QUERY TODO] User: 67e9695c635e232cf84bfb20, Query: {}
+[2025-03-30 22:56:17] [INFO] [UPDATE TODO] User: 67e9695c635e232cf84bfb20, Data: {"title":"Vd","description":"Test giai đoạn 1","status":"in_progress","due_date":"2025-03-28T17:00:00.000Z"}
+[2025-03-30 22:56:29] [INFO] [CREATE TODO] User: 67e9695c635e232cf84bfb20, Data: {"title":"Test","description":"Test2","status":"pending","due_date":"2025-03-20T17:00:00.000Z"}
+[2025-03-30 22:56:32] [INFO] [QUERY TODO] User: 67e9695c635e232cf84bfb20, Query: {"title":"v"}
+[2025-03-30 22:56:32] [INFO] [QUERY TODO] User: 67e9695c635e232cf84bfb20, Query: {"title":"vd"}
+[2025-03-30 22:56:33] [INFO] [QUERY TODO] User: 67e9695c635e232cf84bfb20, Query: {"title":"vd"}
+[2025-03-30 22:56:33] [INFO] [QUERY TODO] User: 67e9695c635e232cf84bfb20, Query: {"title":"v"}
+[2025-03-30 22:56:33] [INFO] [QUERY TODO] User: 67e9695c635e232cf84bfb20, Query: {}
+[2025-03-30 22:56:34] [INFO] [QUERY TODO] User: 67e9695c635e232cf84bfb20, Query: {"title":"V"}
+[2025-03-30 22:56:34] [INFO] [QUERY TODO] User: 67e9695c635e232cf84bfb20, Query: {"title":"Vs"}
+[2025-03-30 22:56:35] [INFO] [QUERY TODO] User: 67e9695c635e232cf84bfb20, Query: {"title":"V"}
+[2025-03-30 22:56:37] [INFO] [QUERY TODO] User: 67e9695c635e232cf84bfb20, Query: {"title":"Vd"}
+[2025-03-30 22:56:40] [INFO] [QUERY TODO] User: 67e9695c635e232cf84bfb20, Query: {"title":"V"}
+[2025-03-30 22:56:40] [INFO] [QUERY TODO] User: 67e9695c635e232cf84bfb20, Query: {}
+[2025-03-30 22:56:46] [INFO] [DELETE TODO] User: 67e9695c635e232cf84bfb20, Data: {}
+[2025-03-30 22:58:13] [INFO] [LOGIN] User: Data: {"email":"lehuy@gmail.com","password":"123456"}
+[2025-03-30 22:58:14] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {}
+[2025-03-30 22:58:14] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {}
