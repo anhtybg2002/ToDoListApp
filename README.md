@@ -6,6 +6,7 @@
 
 1. Cài đặt các module cần thiết: npm install
 2. Chạy server: node index.js
+   
 Server sẽ bắt đầu chạy và lắng nghe kết nối từ client.
 
 ## 2. TodoList Client
