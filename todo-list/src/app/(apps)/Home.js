@@ -1,5 +1,6 @@
 import { Button, Grid, Group, Paper, Stack, TextInput } from "@mantine/core";
 import { modals } from "@mantine/modals";
+import { toast } from 'react-toastify';
 import { useState, useEffect } from "react";
 import TodoForm from "./ToDoForm";
 import { todoApi } from "../api/todo";
@@ -51,17 +52,28 @@ export default function Home() {
                   setTodos((prev) =>
                     prev.map((t) => (t._id === todo._id ? response : t))
                   );
+                  toast.success(`ToDo "${updatedTodo.title}" đã được cập nhật.`);
                 })
-                .catch(console.error);
+                .catch((error) => {
+                  console.error(error);
+                  toast.error(error?.response?.data?.message || "Có lỗi xảy ra khi cập nhật.");
+                });
             } else {
               todoApi
                 .create(updatedTodo, token)
-                .then((response) => setTodos((prev) => [...prev, response]))
-                .catch(console.error);
+                .then((response) => {
+                  setTodos((prev) => [...prev, response]);
+                  toast.success(`ToDo "${updatedTodo.title}" đã được tạo.`);
+                })
+                .catch((error) => {
+                  console.error(error);
+                  toast.error(error?.response?.data?.message || "Có lỗi xảy ra khi tạo mới.");
+                });
             }
+
             modals.closeAll();
           }}
-          onDelete={(deletedTodo) => {
+         onDelete={(deletedTodo) => {
             modals.openConfirmModal({
               title: "Xác nhận xóa",
               children: <p>Bạn có chắc muốn xóa công việc này không?</p>,
@@ -70,13 +82,19 @@ export default function Home() {
               onConfirm: () => {
                 todoApi
                   .delete(deletedTodo._id, token)
-                  .then(() =>
+                  .then(() => {
                     setTodos((prev) =>
                       prev.filter((t) => t._id !== deletedTodo._id)
-                    )
-                  )
-                  .catch(console.error);
-                modals.closeAll();
+                    );
+                    toast.success(`Đã xóa công việc "${deletedTodo.title}"`);
+                  })
+                  .catch((error) => {
+                    console.error(error);
+                    toast.error(error?.response?.data?.message || "Xóa thất bại. Vui lòng thử lại!");
+                  });
+
+                // Cho toast thời gian hiển thị trước khi đóng modal (tuỳ chọn)
+                setTimeout(() => modals.closeAll(), 300);
               },
             });
           }}

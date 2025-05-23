@@ -40,3 +40,87 @@
 [2025-03-30 22:58:13] [INFO] [LOGIN] User: Data: {"email":"lehuy@gmail.com","password":"123456"}
 [2025-03-30 22:58:14] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {}
 [2025-03-30 22:58:14] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {}
+[2025-05-23 22:03:53] [INFO] [SIGNUP] Data: {"firstName":"le","lastName":"huy","email":"lehuykchy@gmail.com","password":"123456"}
+[2025-05-23 22:08:11] [INFO] [SIGNUP] Data: {"firstName":"le","lastName":"huy","email":"lehuykchy@gmail.com","password":"123456"}
+[2025-05-23 22:09:44] [INFO] [SIGNUP] Data: {"firstName":"huy","lastName":"le","email":"lehuykchy@gmail.com","password":"123456"}
+[2025-05-23 22:12:52] [INFO] [SIGNUP] Data: {"firstName":"huy","lastName":"le","email":"lehuykchy@gmail.com","password":"123456"}
+[2025-05-23 22:12:59] [INFO] [LOGIN] User: Data: {"email":"lehuy@gmail.com","password":"123456"}
+[2025-05-23 22:13:00] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {}
+[2025-05-23 22:13:00] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {}
+[2025-05-23 22:14:05] [INFO] [SIGNUP] Data: {"firstName":"huy","lastName":"le","email":"lehuykchy@gmail.com","password":"123"}
+[2025-05-23 22:14:10] [INFO] [LOGIN] User: Data: {"email":"lehuy@gmail.com","password":"123456"}
+[2025-05-23 22:14:11] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {}
+[2025-05-23 22:14:11] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {}
+[2025-05-23 22:14:19] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"d"}
+[2025-05-23 22:14:20] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"ds"}
+[2025-05-23 22:14:21] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"ds"}
+[2025-05-23 22:14:21] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"ds"}
+[2025-05-23 22:14:22] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"d"}
+[2025-05-23 22:14:23] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {}
+[2025-05-23 22:14:25] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"a"}
+[2025-05-23 22:14:25] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"a"}
+[2025-05-23 22:14:26] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {}
+[2025-05-23 22:14:26] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"s"}
+[2025-05-23 22:14:27] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"ss"}
+[2025-05-23 22:14:27] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"ss"}
+[2025-05-23 22:14:27] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"s"}
+[2025-05-23 22:14:27] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {}
+[2025-05-23 22:14:29] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"s"}
+[2025-05-23 22:14:29] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"ss"}
+[2025-05-23 22:14:30] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"s"}
+[2025-05-23 22:14:30] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {}
+[2025-05-23 22:14:33] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"d"}
+[2025-05-23 22:14:33] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"da"}
+[2025-05-23 22:14:34] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"d"}
+[2025-05-23 22:14:34] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"ds"}
+[2025-05-23 22:14:35] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"d"}
+[2025-05-23 22:14:36] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {}
+[2025-05-23 22:14:36] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"d"}
+[2025-05-23 22:14:37] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"d·"}
+[2025-05-23 22:14:37] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"d"}
+[2025-05-23 22:14:37] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {}
+[2025-05-23 22:14:37] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"đ"}
+[2025-05-23 22:14:38] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"đ·"}
+[2025-05-23 22:14:38] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"đ"}
+[2025-05-23 22:14:38] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {}
+[2025-05-23 22:14:38] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"d"}
+[2025-05-23 22:14:38] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"dd"}
+[2025-05-23 22:14:40] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"dd·"}
+[2025-05-23 22:14:40] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"dd"}
+[2025-05-23 22:14:40] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"d"}
+[2025-05-23 22:14:40] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"dđ"}
+[2025-05-23 22:14:40] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"dđ·"}
+[2025-05-23 22:14:40] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"dđ"}
+[2025-05-23 22:14:40] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"d"}
+[2025-05-23 22:14:40] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"dd"}
+[2025-05-23 22:14:40] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"ddd"}
+[2025-05-23 22:14:42] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"dd"}
+[2025-05-23 22:14:43] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"d"}
+[2025-05-23 22:14:43] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {}
+[2025-05-23 22:14:50] [INFO] [UPDATE TODO] User: 67e9290fe9e2d70edaca1fb3, Data: {"title":"dsaddsad","description":"đá","status":"completed","due_date":"2025-03-28T17:00:00.000Z"}
+[2025-05-23 22:15:14] [INFO] [UPDATE TODO] User: 67e9290fe9e2d70edaca1fb3, Data: {"title":"dsaddsad","description":"đá","status":"in_progress","due_date":"2025-03-28T17:00:00.000Z"}
+[2025-05-23 22:15:18] [INFO] [UPDATE TODO] User: 67e9290fe9e2d70edaca1fb3, Data: {"title":"dsaddsad","description":"đá","status":"in_progress","due_date":"2025-03-28T17:00:00.000Z"}
+[2025-05-23 22:16:11] [INFO] [UPDATE TODO] User: 67e9290fe9e2d70edaca1fb3, Data: {"title":"dsaddsad","description":"đá","status":"completed","due_date":"2025-03-28T17:00:00.000Z"}
+[2025-05-23 22:24:33] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {}
+[2025-05-23 22:24:33] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {}
+[2025-05-23 22:25:02] [INFO] [LOGIN] User: Data: {"email":"lehuy@gmail.com","password":"123456"}
+[2025-05-23 22:25:03] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {}
+[2025-05-23 22:25:03] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {}
+[2025-05-23 22:25:35] [INFO] [CREATE TODO] User: 67e9290fe9e2d70edaca1fb3, Data: {"title":"huy dzai","description":"vippro","status":"pending","due_date":"2025-05-21T17:00:00.000Z"}
+[2025-05-23 22:25:46] [INFO] [UPDATE TODO] User: 67e9290fe9e2d70edaca1fb3, Data: {"title":"huy dzai","description":"vippro","status":"completed","due_date":"2025-05-21T17:00:00.000Z"}
+[2025-05-23 22:25:54] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"h"}
+[2025-05-23 22:25:54] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"ha"}
+[2025-05-23 22:25:54] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"hay"}
+[2025-05-23 22:25:55] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"ha"}
+[2025-05-23 22:25:56] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"h"}
+[2025-05-23 22:25:56] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"hu"}
+[2025-05-23 22:25:56] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"huu"}
+[2025-05-23 22:25:57] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"hu"}
+[2025-05-23 22:25:58] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"huy"}
+[2025-05-23 22:25:59] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"hu"}
+[2025-05-23 22:25:59] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"h"}
+[2025-05-23 22:25:59] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {}
+[2025-05-23 22:25:59] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {"title":"h"}
+[2025-05-23 22:26:00] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {}
+[2025-05-23 22:31:43] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {}
+[2025-05-23 22:31:43] [INFO] [QUERY TODO] User: 67e9290fe9e2d70edaca1fb3, Query: {}

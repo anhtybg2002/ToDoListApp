@@ -5,6 +5,9 @@ import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import { MantineProvider } from "@mantine/core";
 import { ModalsProvider } from "@mantine/modals";
+
+import { ToastContainer } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 import "@mantine/core/styles.css";
 import "@mantine/dates/styles.css";
 
@@ -13,6 +16,7 @@ root.render(
   <React.StrictMode>
     <MantineProvider>
       <ModalsProvider>
+        <ToastContainer />
         <App />
       </ModalsProvider>
     </MantineProvider>
